@@ -83,3 +83,5 @@ def pengecekan():
         else:
             print("\nlokasi dalam kondisi baik")
 pengecekan()
+
+print("tugas git")
