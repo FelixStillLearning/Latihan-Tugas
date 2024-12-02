@@ -81,7 +81,7 @@ def pengecekan():
         if i['hasil_panen']['jagung'] > 800 or i['hasil_panen']['padi'] > 1300 :
             print("\nlokasi memerlukan perhatian khusus untuk penanganan hasil panen")
         else:
-            print("\nlokasi dalam kondisi baik")
+            print("\nlokasi dalam kondisi baik maknyus")
 pengecekan()
 
 print("tugas git")
