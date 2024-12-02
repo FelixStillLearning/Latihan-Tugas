@@ -79,7 +79,7 @@ print("total kedelai: ",jumlah_kedelai)
 def pengecekan():
     for k,i in data_panen.items():
         if i['hasil_panen']['jagung'] > 800 or i['hasil_panen']['padi'] > 1300 :
-            print("\nlokasi memerlukan perhatian khusus untuk penanganan")
+            print("\nlokasi memerlukan perhatian khusus untuk penanganan hasil panen")
         else:
             print("\nlokasi dalam kondisi baik")
 pengecekan()
