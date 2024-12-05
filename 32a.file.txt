@@ -1,0 +1,3 @@
+ini adalah file yang dibuat menggunakan pyhton
+keren kan?
+jangan lupa kasih afirmasi kediri sendiri
